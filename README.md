@@ -1,5 +1,3 @@
-# Bootstrap 5 éttermi oldal.
-
 ## Development
 
     Visual Studio Code
